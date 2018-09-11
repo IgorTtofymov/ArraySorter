@@ -42,8 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CombSorter.cs" />
+    <Compile Include="FastSorter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PyramideSorter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
